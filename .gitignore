@@ -1,0 +1,16 @@
+# Ignore Docker file configuration
+dockerfile
+docker-compose.yml
+
+# Ignore env
+.env
+
+# Ignore model folder
+model/
+
+# Ignore venv folder
+venv/
+
+# Ignore files
+*.zip
+*.ipynb
